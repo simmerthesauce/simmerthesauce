@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @simmerthesauce
-- 👀 I’m interested in Machine Learning and OpenAI's GPT
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me: seanworrall1989@outlook.com
+Woah, hi. I'm simmerthesauce!
